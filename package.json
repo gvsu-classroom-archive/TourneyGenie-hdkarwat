@@ -5,7 +5,7 @@
   "main": "TourneyDB.js",
   "dependencies": {
     "ejs": "^6.0.1",
-    "express": "^4.22.1",
+    "express": "^4.22.2",
     "http-server": "^0.12.3",
     "react-navigation": "^4.3.7",
     "react-router-dom": "^5.1.2",
